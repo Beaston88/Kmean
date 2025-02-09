@@ -19,7 +19,7 @@ pip install numpy pandas matplotlib
 1. Place the `kmeans.csv` file in the same directory as the script.
 2. Run the script using:
    ```bash
-   python kmeans_clustering.py
+   python kmeans.py
    ```
 3. The script will generate cluster visualizations for `k=2` and `k=3`.
 
